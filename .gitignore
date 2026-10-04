@@ -1,0 +1,7 @@
+kaggle.json
+.env
+.env.*
+__pycache__/
+.ipynb_checkpoints/
+vkr_fresh_*/
+vkr_results/
